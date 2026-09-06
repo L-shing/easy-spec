@@ -59,6 +59,10 @@ cp -R easy-spec ~/.codex/skills/easy-spec
 
 复杂链路优先使用 Mermaid，示例见 [`examples/mermaid-flowchart-demo.md`](examples/mermaid-flowchart-demo.md)。
 
+## Interop
+
+easy-spec 聚焦「先把规格门禁走完」。门禁通过后的文档（技术方案、DDL、API、开放问题）可直接交给 [Superpowers](https://github.com/obra/superpowers)、[OpenSpec](https://github.com/Fission-AI/OpenSpec) 等开源 SDD / spec 工作流，继续做实现、拆任务与落地开发——本仓库产出的是可交接的上游规格，而不是与下游流程互斥的另一套体系。
+
 ## Project Structure
 
 ```text

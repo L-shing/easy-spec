@@ -59,6 +59,10 @@ Also triggered by: `四步四文档` / `先出方案再写代码`, or `@easy-spe
 
 Prefer Mermaid for non-trivial flows — see [`examples/mermaid-flowchart-demo.md`](examples/mermaid-flowchart-demo.md).
 
+## Interop
+
+easy-spec stops at gated, reviewable specs. Once approved, the artifacts (tech design, DDL, API, open questions) can be handed off to open-source SDD workflows such as [Superpowers](https://github.com/obra/superpowers) or [OpenSpec](https://github.com/Fission-AI/OpenSpec) for implementation, task breakdown, and delivery. Treat easy-spec as an upstream spec layer — complementary to those tools, not a competing end-to-end pipeline.
+
 ## Project Structure
 
 ```text
