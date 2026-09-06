@@ -5,8 +5,8 @@ description: >-
   tech design, DDL, frontend API, and open questions.
   Use when starting a feature from PRD/ownership, when the user says easy-spec /
   四步四文档 / 四步五文档 / 先出方案再写代码, or wants iterative doc review before coding.
-version: "1.0.1"
-updated: "2026-09-06"
+version: "1.0.0"
+updated: "2026-08-30"
 author: LC
 ---
 
